@@ -10,22 +10,22 @@ export const metadata: Metadata = {
   publisher: "Caio Detz",
   authors: {
     name: "Caio Detz",
-    url: "https://caiodetz.com"
+    url: "https://caiodetz.com.br"
   },
   keywords: ['Caio Detz', 'Programador', 'Next.Js', 'Desenvolvedor Web', 'Desenvolvedor Mobile', 'Sorriso', 'Mato-grosso'],
   openGraph: {
-    url: "https://caiodetz.com",
+    url: "https://caiodetz.com.br",
     type: "website",
     title: "Caio Detz",
     description: "Programador at Sorriso, Brasil 🇧🇷",
-    images: "https://caiodetz.com/perfil.webp"
+    images: "https://caiodetz.com.br/perfil.webp"
   },
   twitter: {
     card: "summary_large_image",
-    site: "https://caiodetz.com",
+    site: "https://caiodetz.com.br",
     title: "Caio Detz",
     description: "Programador at Sorriso, Brasil 🇧🇷",
-    images: "https://caiodetz.com/perfil.webp"
+    images: "https://caiodetz.com.br/perfil.webp"
   }
 };
 
